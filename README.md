@@ -58,5 +58,5 @@ los bloques que me faltaban.
 
 ## Contacto
 
-- Email: sergi.gil.fernandez95@gmail.com
+- Email: sergio.gil.fernandez95@gmail.com
 - LinkedIn: [in/sergio-gil-fernandez](https://www.linkedin.com/in/sergio-gil-fernandez/)
